@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sofa-nordico",
+    "nombre": "Sofá Nórdico 3C",
+    "precio_ars": 599999,
+    "imagen": "/sofa.png",
+    "categoria": "Sofás",
+    "material": "Madera + Lino",
+    "dimension": "210 x 85 x 80 cm",
+    "descripcion": "Líneas puras y patas de madera. Ideal para living minimalista."
+  },
+  {
+    "id": "mesa-roble",
+    "nombre": "Mesa de Comedor Roble",
+    "precio_ars": 429999,
+    "imagen": "/mesa.png",
+    "categoria": "Mesas",
+    "material": "Roble macizo",
+    "dimension": "180 x 90 x 75 cm",
+    "descripcion": "Tablero macizo con vetas marcadas y acabado natural mate."
+  },
+  {
+    "id": "silla-wire",
+    "nombre": "Silla Wire",
+    "precio_ars": 89999,
+    "imagen": "/silla.png",
+    "categoria": "Sillas",
+    "material": "Acero pintado + Eco-cuero",
+    "dimension": "48 x 52 x 85 cm",
+    "descripcion": "Silueta ligera con asiento acolchado. Confort y estilo."
+  }
+]

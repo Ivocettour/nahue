@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #0a0a0a;
+}
+
+html, body, #__next { height: 100%; }
+body { background: var(--bg); color: var(--fg); }
+
+a { text-decoration: none; }
+
+.container { max-width: 1100px; margin: 0 auto; padding: 0 1rem; }
+
+.btn { @apply px-4 py-2 rounded-2xl border border-black hover:bg-black hover:text-white transition; }
+.card { @apply border border-gray-200 rounded-2xl p-4 hover:shadow-sm transition; }
+.price { @apply font-semibold; }
